@@ -1,4 +1,4 @@
-# Game
+# Majnik
 PrivateRep
 ### contributors
 Developers: 
